@@ -400,14 +400,14 @@ export default function DisputeDetailPage() {
           </Card>
 
           {/* College Viva Explainer Card */}
-          <Card className="p-5 text-xs text-slate-600 space-y-2 bg-slate-50 border-slate-200">
+          {/* <Card className="p-5 text-xs text-slate-600 space-y-2 bg-slate-50 border-slate-200">
             <span className="font-bold text-slate-800 flex items-center gap-1.5 text-xs">
-              <ShieldCheck className="w-4 h-4 text-indigo-600" /> Viva Talking Point
+              <ShieldCheck className="w-4 h-4 text-indigo-600" /> 
             </span>
             <p className="leading-relaxed">
               In EscrowX, smart contracts hold collateral in non-custodial escrow. Rather than expensive third-party human mediators, LLMs serve as rapid, objective first-line arbitrators with verifiable reasoning logs.
             </p>
-          </Card>
+          </Card> */}
 
         </div>
 
